@@ -35,8 +35,6 @@
 </table>
 
 ---
-
-
 3️⃣ **신용카드 사용자 연체 예측**
 - `pandas`, `numpy`, `matplotlib`, `seaborn`, `OrdinalEncoder`, `MinMaxScaler`, `CatBoostClassifier`
 - **활용 데이터**
@@ -104,5 +102,3 @@
 
 
 ![image](https://github.com/Son-jinseon/LikeLion-Mini-Project/assets/105479949/b9e57354-4ea9-4f40-884c-44ba220e835b)
-
-
